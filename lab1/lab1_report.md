@@ -30,11 +30,11 @@ Date of finished: — (заполняется после защиты)
 
 В разделе IAM & Admin → Service accounts создан сервисный аккаунт `dstepanov-sa-lab1` с описанием назначения для лабораторной работы. Адрес: `dstepanov-sa-lab1@cloud-platforms-as-the-basis.iam.gserviceaccount.com`. Назначена роль `Storage Admin` в учебном проекте. Ключи сервисного аккаунта не создавались.
 
-![Выбор роли Storage Admin перед сохранением](screenshots/01-storage-admin-pending.png)
+![Выбор роли Storage Admin перед сохранением](01-storage-admin-pending.png)
 
 Рисунок 1 — выбор роли Storage Admin перед её сохранением.
 
-![Созданный сервисный аккаунт](screenshots/02-service-account-created.png)
+![Созданный сервисный аккаунт](02-service-account-created.png)
 
 Рисунок 2 — созданный сервисный аккаунт в списке аккаунтов проекта.
 
