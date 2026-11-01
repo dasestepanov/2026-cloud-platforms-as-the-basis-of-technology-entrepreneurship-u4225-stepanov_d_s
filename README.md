@@ -1,0 +1,17 @@
+# Облачные технологии — лабораторные работы
+
+Студент: Степанов Даниил Сергеевич  
+Группа: U4225  
+Год: 2026
+
+Курс: [Cloud platforms as the basis of technology entrepreneurship](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)
+
+## Лабораторные работы
+
+| № | Название | Отчёт | Статус |
+|---|---|---|---|
+| 1 | Обзор Google Cloud и исследование основных сервисов | [Отчёт](lab1/lab1_report.md) | Подготовка, выполнение не подтверждено |
+
+Новые лабораторные добавляются по мере получения заданий.
+
+Отчёты оформляются по [требованиям курса](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/reportdesign/). Скриншоты хранятся в папке соответствующей лабораторной. Дата окончания в шапке — дата защиты перед преподавателем.
