@@ -1,0 +1,4 @@
+stage,requests,AI inference,Cloud Run active,Cloud Run warm ceiling,Cloud Storage,Firestore,Firestore backup/PITR reserve,Internet egress,Cloud Tasks,Logging,Artifact Registry,CI monitoring operations reserve,subtotal,with_20_percent_reserve
+Начальный этап,1000,1.75,0.21875,0.0,0.025400000000000002,0.1557,0.18,0.24,0,0.5,0.1,2,5.16985,6.20382
+Тестирование партнёрами,30000,52.5,6.5625,9.855000000000002,0.562,1.671,1.8,2.4,0.024,2.5,0.30000000000000004,10,88.17450000000001,105.80940000000001
+Продовое решение,1000000,1750.0,218.75,19.710000000000004,15.4,20.7,18.0,24.0,0.8,10.0,1.0,50,2128.3600000000006,2554.0320000000006

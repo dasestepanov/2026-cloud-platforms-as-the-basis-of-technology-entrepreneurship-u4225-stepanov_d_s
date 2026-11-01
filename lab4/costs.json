@@ -1,0 +1,53 @@
+[
+  {
+    "stage": "Начальный этап",
+    "requests": 1000,
+    "AI inference": 1.75,
+    "Cloud Run active": 0.21875,
+    "Cloud Run warm ceiling": 0.0,
+    "Cloud Storage": 0.025400000000000002,
+    "Firestore": 0.1557,
+    "Firestore backup/PITR reserve": 0.18,
+    "Internet egress": 0.24,
+    "Cloud Tasks": 0,
+    "Logging": 0.5,
+    "Artifact Registry": 0.1,
+    "CI monitoring operations reserve": 2,
+    "subtotal": 5.16985,
+    "with_20_percent_reserve": 6.20382
+  },
+  {
+    "stage": "Тестирование партнёрами",
+    "requests": 30000,
+    "AI inference": 52.5,
+    "Cloud Run active": 6.5625,
+    "Cloud Run warm ceiling": 9.855000000000002,
+    "Cloud Storage": 0.562,
+    "Firestore": 1.671,
+    "Firestore backup/PITR reserve": 1.8,
+    "Internet egress": 2.4,
+    "Cloud Tasks": 0.024,
+    "Logging": 2.5,
+    "Artifact Registry": 0.30000000000000004,
+    "CI monitoring operations reserve": 10,
+    "subtotal": 88.17450000000001,
+    "with_20_percent_reserve": 105.80940000000001
+  },
+  {
+    "stage": "Продовое решение",
+    "requests": 1000000,
+    "AI inference": 1750.0,
+    "Cloud Run active": 218.75,
+    "Cloud Run warm ceiling": 19.710000000000004,
+    "Cloud Storage": 15.4,
+    "Firestore": 20.7,
+    "Firestore backup/PITR reserve": 18.0,
+    "Internet egress": 24.0,
+    "Cloud Tasks": 0.8,
+    "Logging": 10.0,
+    "Artifact Registry": 1.0,
+    "CI monitoring operations reserve": 50,
+    "subtotal": 2128.3600000000006,
+    "with_20_percent_reserve": 2554.0320000000006
+  }
+]
